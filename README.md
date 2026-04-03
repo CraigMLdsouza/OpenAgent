@@ -1,3 +1,5 @@
+![Logo](./OpenAgent_Logo.png)
+
 # OpenAgent
 
 AI research agent that fetches real data (Wikipedia + Finance) and outputs structured insights.
