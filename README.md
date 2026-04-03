@@ -4,6 +4,9 @@ AI research agent that fetches real data (Wikipedia + Finance) and outputs struc
 
 ---
 
+## Get Full Version
+https://craigstorm.gumroad.com/l/openagent-research
+
 ## What is OpenAgent?
 
 OpenAgent is a multi-step AI agent designed to move beyond basic text generation.
